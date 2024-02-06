@@ -1,16 +1,34 @@
-### Hi there 👋
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQEhaN2saMyJCg/profile-displaybackgroundimage-shrink_350_1400/0/1706549244476?e=1712793600&v=beta&t=-SdjR6ZSnWql70gzAJo92xzc4olSz4QVgpEVvyqlDNE)](https://mitunsportfolio.vercel.app/)
 
-<!--
-**Mitun/Mitun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mitun Shil</h1>
+<h3 align="center">A passionate Blockchain developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/mitun_shil" target="blank"><img src="https://img.shields.io/twitter/follow/mitun_shil?logo=twitter&style=for-the-badge" alt="mitun_shil" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Layer 1 Blockchain**
+
+- 🌱 I’m currently learning **Substrate,Rust**
+
+- 👯 I’m looking to collaborate on **Blockchain Projects**
+
+- 👨‍💻 All of my projects are available at [https://mitunsportfolio.vercel.app/](https://mitunsportfolio.vercel.app/)
+
+- 💬 Ask me about **Solidity**
+
+- 📫 How to reach me **mitunshil747@gmail.com**
+
+- ⚡ Fun fact **I love meditating, reading self-help books,staring st sky and counting planes,enjoying sea, walking bare-footed.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mitun_shil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitun_shil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mitun-shil-bb94aaab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitun-shil-bb94aaab/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitun&show_icons=true&locale=en&layout=compact" alt="mitun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitun&" alt="mitun" /></p>
