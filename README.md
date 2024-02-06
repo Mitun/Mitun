@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mitunshil747@gmail.com**
 
-- ⚡ Fun fact **I love meditating, reading self-help books,staring st sky and counting planes,enjoying sea, walking bare-footed.**
+- ⚡ Fun fact **I love meditating, reading self-help books,staring at sky and flying planes,enjoying sea, walking bare-footed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
